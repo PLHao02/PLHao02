@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phan Lai Hao</h1>
 <h3 align="center">🎓 I'm a graduate student from HUFLIT</h3>
 
-- 💻 I have a strong interest in Front-end Design.
+- 💻 I have a strong interest in Full-Stack Dev.
 - 💪 Working hard for seeking new opportunities.
 - 🚀 Enhancing my English skills frequently for TOEIC 650 certificate in the future (555 overall currently).
 - 🌱 In my free time, I also enjoy exploring new programming languages and frameworks.
